@@ -1,5 +1,6 @@
 
 ## Backtracking
+  * [Generate Parentheses](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/backtracking/generate_parentheses.cpp)
   * [Graph Coloring](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/backtracking/graph_coloring.cpp)
   * [Knight Tour](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/backtracking/knight_tour.cpp)
   * [Magic Sequence](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/backtracking/magic_sequence.cpp)
@@ -67,6 +68,7 @@
   * [Queue Using Two Stacks](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/queue_using_two_stacks.cpp)
   * [Rb Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/rb_tree.cpp)
   * [Reverse A Linked List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/reverse_a_linked_list.cpp)
+  * [Segment Tree](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/segment_tree.cpp)
   * [Skip List](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/skip_list.cpp)
   * [Sparse Table](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/sparse_table.cpp)
   * [Stack](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/data_structures/stack.hpp)
@@ -228,6 +230,7 @@
   * [Prime Factorization](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/prime_factorization.cpp)
   * [Prime Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/prime_numbers.cpp)
   * [Primes Up To Billion](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/primes_up_to_billion.cpp)
+  * [Quadratic Equations Complex Numbers](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/quadratic_equations_complex_numbers.cpp)
   * [Realtime Stats](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/realtime_stats.cpp)
   * [Sieve Of Eratosthenes](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/sieve_of_eratosthenes.cpp)
   * [Sqrt Double](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/math/sqrt_double.cpp)
@@ -374,6 +377,7 @@
   * [Shell Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/shell_sort.cpp)
   * [Shell Sort2](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/shell_sort2.cpp)
   * [Slow Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/slow_sort.cpp)
+  * [Stooge Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/stooge_sort.cpp)
   * [Strand Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/strand_sort.cpp)
   * [Swap Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/swap_sort.cpp)
   * [Tim Sort](https://github.com/TheAlgorithms/C-Plus-Plus/blob/HEAD/sorting/tim_sort.cpp)
